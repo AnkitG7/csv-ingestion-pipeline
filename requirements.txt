@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+aiokafka
+aioboto3
+python-multipart
+pydantic-settings
